@@ -1,0 +1,34 @@
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.exe
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.deps.json
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.runtimeconfig.json
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.runtimeconfig.dev.json
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.dll
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.pdb
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.csprojAssemblyReference.cache
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.AssemblyInfoInputs.cache
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.AssemblyInfo.cs
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.dll
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.pdb
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.exe
+C:\Users\ASUS\Desktop\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.deps.json
+C:\Users\ASUS\Desktop\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.runtimeconfig.json
+C:\Users\ASUS\Desktop\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.dll
+C:\Users\ASUS\Desktop\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.pdb
+C:\Users\ASUS\Desktop\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.dll
+C:\Users\ASUS\Desktop\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.pdb
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.exe
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.deps.json
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.runtimeconfig.json
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.dll
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\bin\Debug\netcoreapp3.1\MSI_AEX.pdb
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.dll
+C:\Users\ASUS\Desktop\Studia\4 semestr\msi\MSIproject1-master\obj\Debug\netcoreapp3.1\MSI_AEX.pdb
